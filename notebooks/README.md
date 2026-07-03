@@ -7,7 +7,10 @@ This directory contains Jupyter notebooks associated with TamilSpell.
 ```text
 corpus_generation/    Original notebook used for TamilSpell corpus construction
 use_cases/            Notebooks demonstrating TamilSpell use cases
-Notes
+
+```
+
+## Notes
 
 The notebooks are provided for transparency and reproducibility.
 
