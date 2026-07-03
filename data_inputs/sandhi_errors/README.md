@@ -14,4 +14,6 @@ This folder contains input files for Tamil sandhi errors. Sandhi errors occur at
 
 ## Expected format 
 
-The expected format is a tab-separated text file. ```text sentence_with_error corrected_sentence edit_distance error_code
+The expected format is a tab-separated text file. 
+```text
+sentence_with_error corrected_sentence edit_distance error_code
