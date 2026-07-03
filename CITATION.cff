@@ -1,0 +1,18 @@
+cff-version: 1.2.0 
+
+title: "TamilSpell: A Tamil spelling error corpus" 
+message: "If you use TamilSpell, please cite the published dataset and the associated paper." 
+type: dataset 
+authors: 
+- given-names: "Yazhmozhi" 
+  family-names: "V M" 
+- given-names: "Annalu" 
+  family-names: "Waller" 
+- given-names: "Jacky" 
+  family-names: "Visser" 
+- given-names: "Brian" 
+  family-names: "Pluss" 
+doi: "10.15132/10000260" 
+url: "https://discovery.dundee.ac.uk/en/datasets/tamilspell-a-tamil-spelling-error-corpus/" 
+license: "CC-BY-NC-4.0" 
+keywords: - Tamil - spelling error corpus - spell checker - synthetic error generation - low-resource NLP
