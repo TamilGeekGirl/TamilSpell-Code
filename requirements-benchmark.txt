@@ -1,0 +1,5 @@
+-r requirements-core.txt 
+selenium 
+webdriver-manager 
+beautifulsoup4 
+requests
