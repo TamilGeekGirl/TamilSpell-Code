@@ -1,0 +1,9 @@
+-r requirements-core.txt 
+torch 
+transformers 
+datasets 
+evaluate 
+bleu 
+sentencepiece 
+scikit-learn 
+tqdm
