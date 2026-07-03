@@ -20,7 +20,7 @@ This repository contains:
 This repository does **not** contain the full final TamilSpell corpus. Please access the full corpus using the DOI above. 
 
 ## Main workflows
-1. Corpus construction
+### Corpus construction
 
 The original corpus-generation notebook is available at:
 
@@ -28,7 +28,7 @@ notebooks/corpus_generation/TamilSpell.ipynb
 
 This notebook contains the code used for Tamil character setup, keyboard-neighbour construction, non-word error generation, isolated error generation, and 2-way and 3-way error-combination generation.
 
-2. TamilSpell as a benchmark
+### TamilSpell as a benchmark
 
 The benchmark use-case notebook is available at:
 
@@ -36,7 +36,7 @@ notebooks/use_cases/VAANI_TESTING_Final.ipynb
 
 This workflow demonstrates how TamilSpell can be used as a benchmark for evaluating a Tamil spell checker.
 
-3. TamilSpell for neural model training
+### TamilSpell for neural model training
 
 The neural training use-case notebook is available at:
 
