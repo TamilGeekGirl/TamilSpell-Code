@@ -14,5 +14,6 @@ The expected format is usually tab-separated.
 
 ```text
 sentence_with_existing_error corrected_sentence unaltered_positions
+```
 
 The `unaltered_positions` column identifies word positions that should not be changed when generating additional non-word errors.
