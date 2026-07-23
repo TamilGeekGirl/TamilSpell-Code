@@ -1,11 +1,5 @@
 # TamilSpell code repository 
-This repository contains the code, input files, notebooks, documentation, and use-case experiments associated with **TamilSpell**, a large-scale Tamil spelling error corpus. The full TamilSpell corpus has been published as a citable dataset in the University of Dundee Discovery Research Portal and is available under DOI 10.15132/10000260.
-
-## Published corpus 
-The official TamilSpell corpus is available through the University of Dundee Discovery portal. 
-
-**DOI:** [10.15132/10000260](https://doi.org/10.15132/10000260) 
-**Dataset page:** https://discovery.dundee.ac.uk/en/datasets/tamilspell-a-tamil-spelling-error-corpus/ 
+This repository contains the code, input files, notebooks, documentation, and use-case experiments associated with **TamilSpell**, a large-scale Tamil spelling error corpus. The full TamilSpell corpus has been published as a citable dataset in the University of Dundee Discovery Research Portal and is available under **DOI:** [10.15132/10000260](https://doi.org/10.15132/10000260) and here's the link to the **Dataset page:** https://discovery.dundee.ac.uk/en/datasets/tamilspell-a-tamil-spelling-error-corpus/ 
 
 ## What this repository contains 
 This repository contains: 
